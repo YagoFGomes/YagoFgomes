@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oiii! Eu sou o Yago Ferreira 
+## Opa! Eu sou o Yago! 
  <div>
   <a href="https://github.com/YagoFGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoFGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
