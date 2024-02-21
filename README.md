@@ -1,22 +1,10 @@
-<!--
-**YagoFGomes/YagoFgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Opa! Eu sou o Yago! 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FB8C00&background=15151557&center=true&vCenter=true&random=false&width=800&lines=Hello%2C+I'm+Yago!;I'm+a+FullStack+developer;I'm+very+excited+about+new+techs" alt="Typing SVG" /></a>
  <div>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YagoFgomes&theme=dark&card_width=400" alt="GitHub Streak" /></a>
   <a href="https://github.com/YagoFGomes">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoFGomes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoFGomes&layout=compact&langs_count=10&theme=dark"/>
 </div>
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +18,7 @@ Here are some ideas to get you started:
   ##
  
  <div> 
+  ![](https://komarev.com/ghpvc/?username=yagoFGomes)
   <a href="https://instagram.com/ferreira_yago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yago.fgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ferreira-yago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
