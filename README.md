@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&pause=1000&color=FB8C00&background=15151500&center=true&vCenter=true&random=false&width=800&height=80&lines=Hello%2C+I'm+Yago!;I'm+a+FullStack+developer;I'm+very+excited+about+new+techs" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YagoFgomes&theme=dark&card_width=800" alt="GitHub Streak" /></a> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YagoFgomes&theme=dark&card_width=800&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoFGomes&layout=compact&theme=dark&size_weight=0.5&card_width=800)
   <a href="https://github.com/YagoFGomes">
   
